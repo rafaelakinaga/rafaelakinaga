@@ -16,7 +16,6 @@ No momento, meu foco de estudos é em API - em um futuro próximo, viso me torna
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo" />
 
-<P></P>
  meu contato:
 <a href="https://wa.me/5511966058349">
    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
