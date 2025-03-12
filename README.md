@@ -2,6 +2,9 @@ Estou graduando no curso de Analise e Desenvolvimento de Sistemas, entusiasta da
 No momento, meu foco de estudos é em API - em um futuro próximo, viso me tornar um desenvolvedor Full Stack.
 
 
+<h1>A procura de um emprego na área onde eu possa desenvolver exaustivamente</h1>
+
+
 📌 [Meu portifólio](https://lucyanovidio.vercel.app)
 
 <div align="center">
