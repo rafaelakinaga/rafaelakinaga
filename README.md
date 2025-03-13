@@ -5,7 +5,7 @@ No momento, meu foco de estudos é em API - em um futuro próximo, viso me torna
 <h1>Em busca de uma oportunidade na área para me desenvolver continuamente e aprimorar minhas habilidades.</h1>
 
 
-📌 [Meu portifólio](https://lucyanovidio.vercel.app)
+📌 [Meu portifólio](https://portifolio-final-rafael.vercel.app/)
 
 <div align="center">
 
